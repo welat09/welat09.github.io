@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abfb1ed3.chunk.css",
+    "main.js": "/static/js/main.eee22a0f.chunk.js",
+    "main.js.map": "/static/js/main.eee22a0f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e5ca52d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e5ca52d5.js.map",
+    "static/css/2.a8d3234d.chunk.css": "/static/css/2.a8d3234d.chunk.css",
+    "static/js/2.2d195066.chunk.js": "/static/js/2.2d195066.chunk.js",
+    "static/js/2.2d195066.chunk.js.map": "/static/js/2.2d195066.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a8d3234d.chunk.css.map": "/static/css/2.a8d3234d.chunk.css.map",
+    "static/css/main.abfb1ed3.chunk.css.map": "/static/css/main.abfb1ed3.chunk.css.map",
+    "static/js/2.2d195066.chunk.js.LICENSE.txt": "/static/js/2.2d195066.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.dfd0ea12.woff2",
+    "static/media/gemRush.a39b91c3.jpeg": "/static/media/gemRush.a39b91c3.jpeg",
+    "static/media/mysteryBox.533d82ff.jpeg": "/static/media/mysteryBox.533d82ff.jpeg",
+    "static/media/tenFold.e398bd43.jpeg": "/static/media/tenFold.e398bd43.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5ca52d5.js",
+    "static/css/2.a8d3234d.chunk.css",
+    "static/js/2.2d195066.chunk.js",
+    "static/css/main.abfb1ed3.chunk.css",
+    "static/js/main.eee22a0f.chunk.js"
+  ]
+}
